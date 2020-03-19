@@ -1,0 +1,138 @@
+body{
+text-align: center;
+
+
+
+  background-color: #b0deff;
+  font-family: Verdana, cursive;
+  font-size: 20px;
+
+}
+
+
+h1
+{
+  color: #032d3c;
+  font-size: 5rem;
+  font-family: 'Sacramento', cursive
+
+}
+
+ h2{
+   color: #032d3c;
+   font-family: 'Montserrat', sans-serif;
+   font-size: 1.5rem;
+   font-weight: lighter;
+ }                                                    /* 1em=16px*/
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+ .c1{
+   position: absolute;
+   top: 5px;
+
+ }
+.c2{
+  position: absolute;
+  left: 100px;
+  position:absolute;
+  top: 400px;
+}
+.img{
+  text-align: center;
+  height: 300px;
+  margin-bottom: 0px;
+}
+
+.game{
+  height: 300px;
+margin-bottom: 0px;
+}
+.fball{
+  height: 300px;
+  margin-bottom: 0px;
+
+
+}
+
+.skill-row{
+  width: 50%;
+  position: relative;
+  left: 320px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: center;
+  line-height: 1.5;
+}
+.fball{
+  width: 35%;
+  height: 15rem;
+
+}
+
+.game{
+
+  width: 35%;
+
+}
+.img{
+  width: 35%;
+
+}
+.hr1{
+  border-style: dotted none none;
+    border-color: #66bfbf;
+    border-width: 5px;
+    width: 400px;
+}
+.hr2{
+  border-style: dotted none none;
+    border-color: #66BFBF;
+    border-width: 5px;
+    width: 400px;
+}
+.hr3{
+  border-style: dotted none none;
+    border-color: #66BFBF;
+    border-width: 5px;
+    width: 90%;
+}
+.middle-container{
+  /*background-color: red;*/
+}
+.intro{
+  width: 30%;
+  margin: 0 auto 0 auto;
+  color: #032d3c;
+  line-height: 2;
+}
+
+.g{
+  color: #032d3c;
+  line-height: 2;
+}
+
+.f{
+  color: #032d3c;
+  line-height: 2;
+}
+.p{
+line-height: 2;
+  color: #032d3c;
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+color: #032d3c;
+margin: 20px 0 20px 0;
+
+}
+.e{
+  color: #032d3c;
+  font-size: 0.75rem;
+}
+.a{
+  margin: 10px 0px;
+
+}
